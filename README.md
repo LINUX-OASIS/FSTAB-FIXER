@@ -16,9 +16,6 @@
   <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/pulls">
     <img src="https://img.shields.io/github/issues-pr/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github&color=green" alt="GitHub PRs">
   </a>
-  <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/releases">
-    <img src="https://img.shields.io/github/v/release/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github" alt="GitHub release">
-  </a>
   <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/commits/main">
     <img src="https://img.shields.io/github/last-commit/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge" alt="Last Commit">
   </a>
@@ -29,7 +26,7 @@
 </p>
 
 <p align="center">
-  A safe, interactive TUI-based shell script to correct UUID entries in <code>/etc/fstab</code> for root (<code>/</code>) and EFI (<code>/boot/efi</code>) partitions. Perfect for post-cloning or migrating a Linux installation to a new drive!
+  A safe, interactive TUI-based shell script to correct UUID entries in <code>/etc/fstab</code> for root (<code>/</code>) and EFI (<code>/boot/efi</code>) partitions. Perfect for post-cloning or migra[...]
 </p>
 
 ---
