@@ -2,7 +2,13 @@
 
 <p align="center">
   <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/blob/main/LICENSE">
-    <img src="https://img.shields.io/badge/License-GPLv3-blue.svg?style=for-the-badge" alt="License: GPL v3">
+    <img src="https://img.shields.io/github/license/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge" alt="License">
+  </a>
+  <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/stargazers">
+    <img src="https://img.shields.io/github/stars/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github" alt="GitHub stars">
+  </a>
+  <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/network/members">
+    <img src="https://img.shields.io/github/forks/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github" alt="GitHub forks">
   </a>
   <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/issues">
     <img src="https://img.shields.io/github/issues/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github&color=orange" alt="GitHub issues">
@@ -13,9 +19,12 @@
   <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/releases">
     <img src="https://img.shields.io/github/v/release/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge&logo=github" alt="GitHub release">
   </a>
+  <a href="https://github.com/LINUX-OASIS/FSTAB-FIXER/commits/main">
+    <img src="https://img.shields.io/github/last-commit/LINUX-OASIS/FSTAB-FIXER?style=for-the-badge" alt="Last Commit">
+  </a>
   <br>
-  <img src="https://img.shields.io/badge/Shell_Script-121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Made with Bash">
-  <img src="https://img.shields.io/badge/OS-Linux-blue?style=for-the-badge&logo=linux&logoColor=white" alt="Runs on Linux">
+  <img src="https://img.shields.io/badge/Shell_Script-Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Made with Bash">
+  <img src="https://img.shields.io/badge/Linux-OS-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Runs on Linux">
   <img src="https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=for-the-badge" alt="Contributions Welcome">
 </p>
 
